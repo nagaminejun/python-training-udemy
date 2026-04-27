@@ -1,0 +1,5 @@
+Hi $name.
+
+$contents
+
+Hava good day

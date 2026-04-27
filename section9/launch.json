@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: main.py をデバッグ",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/section9/main.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}/section9",
+      "justMyCode": true
+    }
+  ]
+}
