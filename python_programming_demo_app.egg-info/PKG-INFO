@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: python_programming_demo_app
+Version: 0.0.2
+Summary: roboter description
+Home-page: http://sakaijunsoccer.appspot.com
+Author: jsakai
+Author-email: example@example.com
+License: MIT
+Requires-Dist: termcolor==1.1.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary
